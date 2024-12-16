@@ -46,7 +46,7 @@ print(".....")
 time.sleep(3)
 print(".....")
 time.sleep(5)
-print("PRESS F1 TO BOOT LOGIN PAGE")
+print("PRESS F1 TO BOOT PROCESSES")
 import os
 import sys
 import subprocess
