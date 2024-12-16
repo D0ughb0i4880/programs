@@ -104,3 +104,9 @@ if NameError == "main": # type: ignore
 if NameError == "main": # type: ignore
     crosh = CroshClone()
     crosh.run()
+
+        subprocess.run(["top", "-n", "1"])
+
+if NameError == "main": # type: ignore
+    crosh = CroshClone()
+    crosh.run()
