@@ -1,4 +1,3 @@
-import os
 import time
 print ("...")
 time.sleep(3)
@@ -21,3 +20,4 @@ time.sleep(3)
 print ("or press F12 to boot system")
 time.sleep(10)
 print ("   ")
+import time
