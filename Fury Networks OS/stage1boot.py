@@ -41,9 +41,9 @@ print("FURY NETWORKS OS")
 time.sleep(5)
 print("WAITING FOR BOOT PROCESSES.....")
 time.sleep(3)
-import time
 print(".....")
 time.sleep(3)
 print(".....")
 time.sleep(5)
 print("PRESS F1 TO BOOT PROCESSES")
+import time
